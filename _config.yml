@@ -12,7 +12,7 @@ paginate_path: "/blog/page:num/"
 title: Christian Ezeani
 subtitle: Full-Stack Developer
 
-# left_side:
+ left_side:
    background_image: ""
 #   background_color: "#F00"
 #   close_button_color: "#F00"
