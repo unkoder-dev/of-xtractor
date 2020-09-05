@@ -11,7 +11,7 @@ jQuery(document).ready(function () {
       $layout.removeClass('pan-menu-open');
     });
     
-    $("pan-layout-left__menu li").on("click", function(){
+    $(".pan-layout-left__menu li").on("click", function(){
       alert($(this).text());
     });
 
