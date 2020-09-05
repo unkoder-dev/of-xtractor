@@ -31,3 +31,8 @@ font-family: "Roboto" !important;
     display: none;
 }
 
+/*Make content in the right not reserve space for header*/
+pan-layout-content{
+  top: 0;
+}
+
