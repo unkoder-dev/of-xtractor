@@ -16,7 +16,7 @@ left_side:
    background_image: ""
    background_color: "#f2f9fe"
 #   close_button_color: "#F00"
-#   text_color: "#F00"
+   text_color: "#959595"
 
 footer:
   copyright_text: "&copy; Christian Ezeani"
