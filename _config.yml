@@ -9,7 +9,7 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-avatar: "/assets/images/ofx_200.png"
+avatar: "assets/images/ofx_200.png"
 title: OF Xtractor
 subtitle: Full-Stack Developer
 
