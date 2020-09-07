@@ -33,7 +33,7 @@ menu:
     icon: ""
     
   - text: News
-    link: /blog
+    link: /news
     icon: ""
 
   - text: Contact Me
