@@ -28,3 +28,5 @@
   <img src="./assets/images/docs/below_posts.png" alt="Buttons below posts" class="tutorial-img">
 
 </div>
+
+![Image of Yaktocat](./assets/images/docs/below_posts.png)
