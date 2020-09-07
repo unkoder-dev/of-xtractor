@@ -88,6 +88,9 @@ As you can see, it prompts you to select a user. When you click that message, a 
   <img src="./assets/images/docs/user_list.png" alt="" class="tutorial-img">
 </div>
 
+<a href="#top">Back to top</a>
+
+---
 <div id="layout"></div>
 ## 2.1 Extension page layout
 
@@ -114,10 +117,12 @@ If you select any of your susbcriptions (see 2.1), you will get the following in
 * **Section 8:**  When you hit the search button (magnifier glass), the content that meets the search criteria will be displayed in this table
 
 <a href="#top">Back to top</a>
-<div id="layout"></div>
+
+---
+<div id="posts"></div>
 ## 2.1 Posts tab
 
-While being in the posts tab you will be able to retrieve the selected creator's posts that contain multimedia.
+While being in the posts tab, you will be able to retrieve the selected creator's posts that contain multimedia.
 
 <div class="alert-box-warning">
           <h4>Important!</h4>
@@ -143,3 +148,98 @@ Depending on the number of posts the user has according to the selection criteri
 
 As you can see, the table displays the thumbnail of the multimedia, duration (only in the case of videos), media type, publish date and post text (if any).
 
+Above the table the following controls are enabled:
+* **Pictures:** Select/unselect all pictures from the table
+* **Videos:** Select/unselect all videos from the table
+* **Xtract selected:** Download the selected multimedia to your hard drive
+* **Xtract links:** Copy the links to the selected multimedia to the clipboard
+* **Multimedia found:** Indicates the number of photos, videos and audios being displayed in the table
+
+<a href="#top">Back to top</a>
+
+---
+<div id="chats"></div>
+## 2.2 Chats tab
+
+While being in the chats tab, you will be able to retrieve the multimedia the creator has sent you via direct message.
+
+<div class="alert-box-warning">
+          <h4>Important!</h4>
+          <p>
+            Only viewable multimedia will be displayed. Those multimedia messages the creator sends for you to purchase, but you havent's purchased yet
+            will not be shown.
+          </p>
+</div>
+
+First you have to indicate if you want to get chat multimedia in custom date range or all the posts since the creator joined OnlyFans.
+If you selected custom date range, then you will have to provide the "date from" and "date to" (default = today) that will be used in the search.
+
+Finally hit the search button (magnifying glass) and see the magic happen!
+
+Depending on the number of posts the user has according to the selection criteria you entered, the main table will be filled like this:
+<div>
+  <img src="./assets/images/docs/chats.png" alt="" class="tutorial-img">
+</div>
+
+As you can see, the table displays the thumbnail of the multimedia, duration (only in the case of videos), media type, publish date and chat text (if any).
+
+Above the table the following controls are enabled:
+* **Pictures:** Select/unselect all pictures from the table
+* **Videos:** Select/unselect all videos from the table
+* **Xtract selected:** Download the selected multimedia to your hard drive
+* **Xtract links:** Copy the links to the selected multimedia to the clipboard
+* **Multimedia found:** Indicates the number of photos, videos and audios being displayed in the table
+
+<a href="#top">Back to top</a>
+
+---
+<div id="stories"></div>
+## 2.3 Stories tab
+
+While being in the stories tab, you will be able to retrieve the selected creator's stories (if any).
+
+In this case you don't have to input any selection criteria, just click the search button and the stories will be displayed in the table below.
+
+If the creator has posted stories, the main table will be filled like this:
+
+<div>
+  <img src="./assets/images/docs/stories.png" alt="" class="tutorial-img">
+</div>
+
+As you can see, the table displays the thumbnail of the multimedia, duration (only in the case of videos), media type, and publish date.
+
+Above the table the following controls are enabled:
+* **Pictures:** Select/unselect all pictures from the table
+* **Videos:** Select/unselect all videos from the table
+* **Xtract selected:** Download the selected multimedia to your hard drive
+* **Xtract links:** Copy the links to the selected multimedia to the clipboard
+* **Multimedia found:** Indicates the number of photos, videos and audios being displayed in the table
+
+<a href="#top">Back to top</a>
+
+---
+<div id="purchases"></div>
+## 2.4 My purchases
+
+This tab is located at the top of the extension window, next to the "Home" tab.
+
+Once you're there, you will be able to search for all the content you have ever purchased from any creator, wether you are currently subscribed or not.
+
+You don't have to specify any search criteria, just press the search button!
+
+If you have ever purchased content from any creator, the main table will be filled like this:
+
+<div>
+  <img src="./assets/images/docs/purchases.png" alt="" class="tutorial-img">
+</div>
+
+As you can see, the table displays the thumbnail of the multimedia, duration (only in the case of videos), media type, publish date and text (if any).
+
+Above the table the following controls are enabled:
+* **Pictures:** Select/unselect all pictures from the table
+* **Videos:** Select/unselect all videos from the table
+* **Xtract selected:** Download the selected multimedia to your hard drive
+* **Xtract links:** Copy the links to the selected multimedia to the clipboard
+* **Multimedia found:** Indicates the number of photos, videos and audios being displayed in the table
+
+<a href="#top">Back to top</a>
