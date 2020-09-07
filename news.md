@@ -1,3 +1,3 @@
-# PAGE TITLE HERE
+# LATEST NEWS
 
 {% include posts/index.html %}
