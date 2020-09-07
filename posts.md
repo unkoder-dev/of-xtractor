@@ -1,6 +1,6 @@
 ---
 ---
 
-# BLOG POSTS
+# NEWS
 
 {% include posts/index.html %}
