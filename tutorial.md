@@ -10,10 +10,10 @@ layout: default
   <li><a href="#direct-download">1 Download content directly from OnlyFans site</a>
   
 </li>
-<li><a href="#Second_Point_Header">2 Download content from the extension page</a>
+<li><a href="#extension-download">2 Download content from the extension page</a>
   <ul>
     <li><a href="#layout">2.1 Extension page layout</a></li>
-    <li><a href="#posts">2.2 Posts</a></li>
+    <li><a href="#posts">2.2 Posts tab</a></li>
     <li><a href="#chats">3.3 Chats</a></li>
     <li><a href="#stories">3.4 Stories</a></li>
     <li><a href="#purchases">3.5 My Purchases</a></li>
@@ -66,6 +66,8 @@ layout: default
 <a href="#top">Back to top</a>
 
 ---
+
+<div id="extension-download"></div>
 ## 2 Download content from the extension page
 
 To enable this option, you have to click on the extension button that is displayed in your browser's bar:
@@ -86,6 +88,7 @@ As you can see, it prompts you to select a user. When you click that message, a 
   <img src="./assets/images/docs/user_list.png" alt="" class="tutorial-img">
 </div>
 
+<div id="layout"></div>
 ## 2.1 Extension page layout
 
 If you select any of your susbcriptions (see 2.1), you will get the following info from the user:
@@ -109,3 +112,34 @@ If you select any of your susbcriptions (see 2.1), you will get the following in
 * **Section 6:**  Toggle between posts, chats and stories
 * **Section 7:**  Selection parameters (self explanatory)
 * **Section 8:**  When you hit the search button (magnifier glass), the content that meets the search criteria will be displayed in this table
+
+<a href="#top">Back to top</a>
+<div id="layout"></div>
+## 2.1 Posts tab
+
+While being in the posts tab you will be able to retrieve the selected creator's posts that contain multimedia.
+
+<div class="alert-box-warning">
+          <h4>Important!</h4>
+          <p>
+            Posts that only contain text, but no photo/video/audio will not be displayed. The extension's main purpose is to download multimedia, not
+            browse OnlyFans posts.
+            Also, posts contaning locked media (media you have to purchase to see, but you haven't purchased yet) will not be displayed either. Once you purchase
+            locked media, then you will be able to download it using this extension
+          </p>
+</div>
+
+First you have to select wether you want to select regular posts (posts you usually see when yo go to the creator's page in OnlyFans) or archived posts (posts the creator removed from the main feed but are still accessible from the archived section in OnlyFans).
+
+Then indicate if you want to get: Posts in custom date range, posts since yesterday, posts since last week (7 days back until today) or all the posts since the creator joined OnlyFans.
+If you selected posts in custom date range, then you will have to provide the "date from" and "date to" (default = today) that will be used to search for posts. For all other options, "date from" and "date to" are automatically filled.
+
+Finally hit the search button (magnifying glass) and see the magic happen!
+
+Depending on the number of posts the user has according to the selection criteria you entered, the main table will be filled like this:
+<div>
+  <img src="./assets/images/docs/posts.png" alt="" class="tutorial-img">
+</div>
+
+As you can see, the table displays the thumbnail of the multimedia, duration (only in the case of videos), media type, publish date and post text (if any).
+
