@@ -79,8 +79,30 @@ The following window will pop up:
   <img src="./assets/images/docs/initial_popup.png" alt="" class="tutorial-img">
 </div>
 
-As you can see, it prompts you to select a user. After you click that message, a list with all your subscriptions will be displayed:
+As you can see, it prompts you to select a user. When you click that message, a list with all your subscriptions will be displayed:
 
 <div>
   <img src="./assets/images/docs/user_list.png" alt="" class="tutorial-img">
 </div>
+
+If you select any of your susbcriptions, you will get the following info from the user:
+
+<div>
+  <img src="./assets/images/docs/popup-sections.png" alt="" class="tutorial-img">
+</div>
+
+* **Section 1:**  Creator's profile picture
+* **Section 2:**  Creator's Name
+* **Section 3:**  Creator's user handle
+* **Section 4:**  Button to reload user list (use it when outdated info is being displayed)
+* **Section 5:**  Creator's basic info:
+  * Joined: Date the creator joined instagram
+  * Posts: Number of posts
+  * Photos: Number of photos posted
+  * Videos: Number of videos posted
+  * Audios: Number of audios posted
+  * Archived: Number of posts the user has archived
+  * Has stories: Indicates wether this creator has stories or not
+* **Section 6:**  Toggle between posts, chats and stories
+* **Section 7:**  Selection parameters (self explanatory)
+* **Section 8:**  When you hit the search button (magnifier glass), the content that meets the search criteria will be displayed in this table
