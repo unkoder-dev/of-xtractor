@@ -20,6 +20,7 @@
 
 ---
 <div id="direct-download"></div>
+
 ## Download content directly from OnlyFans page
   The extension allows you to download content from two possible places: directly from the OnlyFans site or by a popup window that opens up when you click on the extension icon. Here we'll cover the first case.
   
