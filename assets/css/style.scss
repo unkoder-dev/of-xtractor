@@ -135,3 +135,24 @@ hr {
     background-color: #e1e4e8;
     border: 0;
 }
+
+.alert-box-warning {
+  color: black !important;
+  border: 1px solid #ccc !important;
+  border-color: #faebcc !important;
+  /* border-color: #fff5c2 !important; */
+  background-color: #fffbe5 !important;
+  padding-left: 0.5rem !important;
+  padding-right: 0.2rem !important;
+}
+
+.alert-box-warning h4 {
+  margin-bottom: 0.5rem !important;
+  color: #8a6d3b !important;
+}
+
+.alert-box-warning p {
+  margin-bottom: 0.5rem !important;
+  font-size: 1.5rem !important;
+  color: #8a6d3b !important;
+}
