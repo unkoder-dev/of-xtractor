@@ -158,3 +158,8 @@ hr {
   font-size: 1rem !important;
   color: #8a6d3b !important;
 }
+
+/*Post list: do not display image below post item*/
+.pan-post-list--left{
+  display: none;
+}
