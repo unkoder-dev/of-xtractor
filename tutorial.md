@@ -85,7 +85,9 @@ As you can see, it prompts you to select a user. When you click that message, a 
   <img src="./assets/images/docs/user_list.png" alt="" class="tutorial-img">
 </div>
 
-If you select any of your susbcriptions, you will get the following info from the user:
+## 2.1 Extension page layout
+
+If you select any of your susbcriptions (see 2.1), you will get the following info from the user:
 
 <div>
   <img src="./assets/images/docs/popup_sections.png" alt="" class="tutorial-img">
