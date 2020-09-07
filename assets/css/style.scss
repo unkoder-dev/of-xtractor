@@ -21,6 +21,11 @@ body{
 font-family: "Roboto" !important;
 }
 
+/*Left pane, menu container*/
+.pan-layout-left__middle{
+  top: 250px !important;
+}
+
 .pan-layout-left__menu>li:hover {
     color: #1da1f2;
     background-color: #e8f5fe;
@@ -36,10 +41,18 @@ font-family: "Roboto" !important;
   top: 0;
 }
 
-.pan-layout-left__avatar a{
-  width: 200px;
-  height: 200px;
+/*Left pane avatar image container*/
+pan-layout-left__avatar{
+  top: 30px !important;
 }
+
+/*Left pane avatar image*/
+.pan-layout-left__avatar a{
+  width: 250px;
+  height: 250px;
+}
+
+
 
 .pan-layout-left__avatar a img{
   border-radius: 0;
