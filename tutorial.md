@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<div id="top"></div>
 # Tutorial
 
 <div id="toc_container">
@@ -63,7 +63,7 @@ layout: default
 </tr>
 </tbody>
 </table>
-
+<a href="#top">Back to top</a>
 ---
 ## 2 Download content from the extension page
 
