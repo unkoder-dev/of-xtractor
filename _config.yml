@@ -31,18 +31,16 @@ menu:
   - text: Tutorial
     link: /tutorial
     icon: ""
+    
+  - text: News
+    link: /blog
+    icon: ""
 
   - text: Contact Me
     link: /contact
     icon: ""
 
-  - text: My Resume
-    link: /resume
-    icon: ""
-
-  - text: Blog Posts
-    link: /blog
-    icon: ""
+  
 
 # Socialmedia Icons
 social_icons:
