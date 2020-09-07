@@ -31,10 +31,30 @@
   
   Here's a summary of what each button does:
   
- Button text | Action
------------- | -------------
-Xtract photo | Downloads the photo to your PC
-Xtract video | Downloads the video to your PC
-Xtract ALL   | Download all photos and videos from the current post to your pc
-Xtract links | Copy the links to download the photos and videos to your clipboard
+<table class="tutorial-table">
+<thead>
+<tr>
+<th>Button text</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Xtract photo</td>
+<td>Downloads the photo to your PC</td>
+</tr>
+<tr>
+<td>Xtract video</td>
+<td>Downloads the video to your PC</td>
+</tr>
+<tr>
+<td>Xtract ALL</td>
+<td>Download all photos and videos from the current post to your pc</td>
+</tr>
+<tr>
+<td>Xtract links</td>
+<td>Copy the links to download the photos and videos to your clipboard</td>
+</tr>
+</tbody>
+</table>
 
