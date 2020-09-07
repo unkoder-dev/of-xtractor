@@ -22,7 +22,7 @@
     <div class="pan-layout-left__avatar">
       {% if site.avatar %}
       <a href="{{ '/' | relative_url }}">
-        <img src="{{relative_url}}/{{ site.avatar }}" alt="{{ site.title | default: site.github.owner_name }}">
+        <img src="{{ '/' | relative_url }}'/'{{ site.avatar }}" alt="{{ site.title | default: site.github.owner_name }}">
       </a>
       {% else if site.github.owner_gravatar_url %}
       <a href="{{ '/' | relative_url }}">
