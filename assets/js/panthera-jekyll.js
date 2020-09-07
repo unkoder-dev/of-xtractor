@@ -25,7 +25,7 @@ jQuery(document).ready(function () {
     var arr = (document.location.href).split("/");
     var $path = "/" + arr[arr.length-1];
     jQuery('[data-menu-link]').removeClass('active');
-    jQuery('[data-menu-link="' + $path + '"]').addClass('active');
+    jQuery('[data-menu-link="' + $path + '"]').addClass('pan-layout-left__menu_active');
   })();
   
 });
