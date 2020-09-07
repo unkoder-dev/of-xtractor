@@ -64,6 +64,7 @@ layout: default
 </tbody>
 </table>
 <a href="#top">Back to top</a>
+
 ---
 ## 2 Download content from the extension page
 
