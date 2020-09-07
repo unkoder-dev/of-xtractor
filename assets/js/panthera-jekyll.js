@@ -12,7 +12,7 @@ jQuery(document).ready(function () {
     });
     
     $(".pan-layout-left__menu li").on("click", function(){
-      alert($(this).text());
+      //alert($(this).text());
     });
 
     jQuery('.pan-layout').on('click', '.pan-layout-left__close', function (e) {
@@ -22,7 +22,8 @@ jQuery(document).ready(function () {
   })();
 
   (function () {
-    var $path = document.location.pathname;
+    var arr = (document.location.href).split("/");
+    var $path = "/" + arr[arr.length-1];
     jQuery('[data-menu-link]').removeClass('active');
     jQuery('[data-menu-link="' + $path + '"]').addClass('active');
   })();
