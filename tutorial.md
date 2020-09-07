@@ -67,8 +67,20 @@ layout: default
 ---
 ## 2 Download content from the extension page
 
-To enable this option, you have to click on the extension button that is displayed in your browser's bar
+To enable this option, you have to click on the extension button that is displayed in your browser's bar:
 
 <div>
-  <img src="./assets/images/docs/ext_button.png" alt="Ext icon" class="tutorial-img">
+  <img src="./assets/images/docs/ext_button.png" alt="" class="tutorial-img">
+</div>
+
+The following window will pop up:
+
+<div>
+  <img src="./assets/images/docs/initial_popup.png" alt="" class="tutorial-img">
+</div>
+
+As you can see, it prompts you to select a user. After you click that message, a list with all your subscriptions will be displayed:
+
+<div>
+  <img src="./assets/images/docs/user_list.png" alt="" class="tutorial-img">
 </div>
