@@ -19,7 +19,12 @@
 </div>
 
 ---
-
+##Download content directly from OnlyFans page
 <div id="direct-download">
-  Hello
+  The extension allows you to download content from two possible places: directly from the OnlyFans site or by a popup window that opens up when you click on the extension icon. Here we'll cover the first case.
+  
+  While navigating in OnlyFans, below each post you will be able to see the following buttons:
+  
+  <img src="/assets/images/docs/below_posts.png" alt="Buttons below posts" width="500" height="600">
+
 </div>
