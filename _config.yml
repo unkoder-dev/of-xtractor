@@ -24,11 +24,11 @@ footer:
 
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: Home
     link: /
     icon: ""
 
-  - text: Skills & Offers
+  - text: Tutorial
     link: /skills-and-offers
     icon: ""
 
