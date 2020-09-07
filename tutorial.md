@@ -27,6 +27,8 @@
   
   <img src="./assets/images/docs/below_posts.png" alt="Buttons below posts" class="tutorial-img">
   
+</div>
+  
   Here's a summary of what each button does:
   
  Button text | Action
@@ -35,4 +37,4 @@ Xtract photo | Downloads the photo to your PC
 Xtract video | Downloads the video to your PC
 Xtract ALL   | Download all photos and videos from the current post to your pc
 Xtract links | Copy the links to download the photos and videos to your clipboard
-</div>
+
