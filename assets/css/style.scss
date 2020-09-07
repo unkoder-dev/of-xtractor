@@ -31,6 +31,12 @@ font-family: "Roboto" !important;
   color: #606c76;
 }
 
+.pan-layout-left__menu_active{
+  color: #1da1f2;
+  background-color: #e8f5fe;
+  font-weight: bold;
+}
+
 .pan-layout-left__menu>li:hover {
     color: #1da1f2;
     background-color: #e8f5fe;
