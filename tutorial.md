@@ -88,7 +88,7 @@ As you can see, it prompts you to select a user. When you click that message, a 
 If you select any of your susbcriptions, you will get the following info from the user:
 
 <div>
-  <img src="./assets/images/docs/popup-sections.png" alt="" class="tutorial-img">
+  <img src="./assets/images/docs/popup_sections.png" alt="" class="tutorial-img">
 </div>
 
 * **Section 1:**  Creator's profile picture
