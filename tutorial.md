@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Tutorial
 
 <div id="toc_container">
