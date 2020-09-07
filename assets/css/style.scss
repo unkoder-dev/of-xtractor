@@ -44,3 +44,8 @@ font-family: "Roboto" !important;
 .pan-layout-left__avatar a img{
   border-radius: 0;
 }
+
+/*Hide box for title and subtitle*/
+.pan-layout-left__info{
+  display: none;
+}
