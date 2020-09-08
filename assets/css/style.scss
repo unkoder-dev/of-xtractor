@@ -3,6 +3,10 @@
 
 @import 'panthera-jekyll';
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* roboto-regular - latin */
 @font-face {
   font-family: 'Roboto';
