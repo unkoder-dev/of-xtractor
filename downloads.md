@@ -8,9 +8,9 @@ Everytime there is a new version to solve issues or introduce new features, the 
 
 If you want to try the new features before it's published in the official stores, you can do so by downloading the desired version from here and install them manually following the instructions described in the tutorials section: [Install OF-Xtractor manually](/tutorial#install)
 
-## Version 1.0.1
+## Version 1.0.2
 
-[Download for Chrome](/downloads/V1.0.1/of-xtractor-chrome.zip)  |  [Download for Firefox](/downloads/V1.0.1/of-xtractor-firefox.zip)
+[Download for Chrome](/downloads/V1.0.2/of-xtractor-chrome.zip)  |  [Download for Firefox](/downloads/V1.0.2/of-xtractor-firefox.zip)
 
 ### Features
 
