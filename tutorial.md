@@ -76,6 +76,14 @@ To enable this option, you have to click on the extension button that is display
   <img src="./assets/images/docs/ext_button.png" alt="" class="tutorial-img">
 </div>
 
+<div class="alert-box-warning">
+          <h4>Important!</h4>
+          <p>
+            You HAVE TO click on this button while being on a tab where OnlyFans is open. Otherwise you'll get a message
+            saying so...
+          </p>
+</div>
+
 The following window will pop up:
 
 <div>
