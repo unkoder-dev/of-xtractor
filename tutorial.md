@@ -22,7 +22,7 @@ layout: default
 <li><a href="#install">3 Install extension manually before it's published</a>
   <ul>
     <li><a href="#install-chrome">3.1 Manual installation steps for Google Chrome</a></li>
-    <li><a href="#posts">3.2 Manual installation steps for Mozilla Firefox</a></li>
+    <li><a href="#install-firefox">3.2 Manual installation steps for Mozilla Firefox</a></li>
   </ul>
 </li>
 </ul>
