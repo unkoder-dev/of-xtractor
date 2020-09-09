@@ -37,7 +37,7 @@ layout: default
   While navigating in OnlyFans, below each post you will be able to see the following buttons:
   
 <div>
-  <img src="./assets/images/docs/below_posts.png" alt="Buttons below posts" class="tutorial-img">
+  <img src="./assets/images/docs/below_posts.png" alt="Buttons below posts" class="tutorial-img"/>
   
 </div>
   
@@ -79,7 +79,7 @@ layout: default
 To enable this option, you have to click on the extension button that is displayed in your browser's bar:
 
 <div>
-  <img src="./assets/images/docs/ext_button.png" alt="" class="tutorial-img">
+  <img src="./assets/images/docs/ext_button.png" alt="" class="tutorial-img"/>
 </div>
 
 <div class="alert-box-warning">
@@ -93,13 +93,13 @@ To enable this option, you have to click on the extension button that is display
 The following window will pop up:
 
 <div>
-  <img src="./assets/images/docs/initial_popup.png" alt="" class="tutorial-img">
+  <img src="./assets/images/docs/initial_popup.png" alt="" class="tutorial-img"/>
 </div>
 
 As you can see, it prompts you to select a user. When you click that message, a list with all your subscriptions will be displayed:
 
 <div>
-  <img src="./assets/images/docs/user_list.png" alt="" class="tutorial-img">
+  <img src="./assets/images/docs/user_list.png" alt="" class="tutorial-img"/>
 </div>
 
 <a href="#top">Back to top</a>
@@ -111,7 +111,7 @@ As you can see, it prompts you to select a user. When you click that message, a 
 If you select any of your susbcriptions (see 2.1), you will get the following info from the user:
 
 <div>
-  <img src="./assets/images/docs/popup_sections.png" alt="" class="tutorial-img">
+  <img src="./assets/images/docs/popup_sections.png" alt="" class="tutorial-img"/>
 </div>
 
 * **Section 1:**  Creator's profile picture
@@ -157,7 +157,7 @@ Finally hit the search button (magnifying glass) and see the magic happen!
 
 Depending on the number of posts the user has according to the selection criteria you entered, the main table will be filled like this:
 <div>
-  <img src="./assets/images/docs/posts.png" alt="" class="tutorial-img">
+  <img src="./assets/images/docs/posts.png" alt="" class="tutorial-img"/>
 </div>
 
 As you can see, the table displays the thumbnail of the multimedia, duration (only in the case of videos), media type, publish date and post text (if any).
@@ -192,7 +192,7 @@ Finally hit the search button (magnifying glass) and see the magic happen!
 
 Depending on the number of posts the user has according to the selection criteria you entered, the main table will be filled like this:
 <div>
-  <img src="./assets/images/docs/chats.png" alt="" class="tutorial-img">
+  <img src="./assets/images/docs/chats.png" alt="" class="tutorial-img"/>
 </div>
 
 As you can see, the table displays the thumbnail of the multimedia, duration (only in the case of videos), media type, publish date and chat text (if any).
@@ -217,7 +217,7 @@ In this case you don't have to input any selection criteria, just click the sear
 If the creator has posted stories, the main table will be filled like this:
 
 <div>
-  <img src="./assets/images/docs/stories.png" alt="" class="tutorial-img">
+  <img src="./assets/images/docs/stories.png" alt="" class="tutorial-img"/>
 </div>
 
 As you can see, the table displays the thumbnail of the multimedia, duration (only in the case of videos), media type, and publish date.
@@ -244,7 +244,7 @@ You don't have to specify any search criteria, just press the search button!
 If you have ever purchased content from any creator, the main table will be filled like this:
 
 <div>
-  <img src="./assets/images/docs/purchases.png" alt="" class="tutorial-img">
+  <img src="./assets/images/docs/purchases.png" alt="" class="tutorial-img"/>
 </div>
 
 As you can see, the table displays the thumbnail of the multimedia, duration (only in the case of videos), media type, publish date and text (if any).
@@ -278,13 +278,13 @@ For google chrome, the installation process is rather easy:
 * Type the following in Chrome's address bar: `chrome://extensions/` and enable "developer options":
 
 <div>
-  <img src="./assets/images/docs/developer_options.png" alt="" class="tutorial-img">
+  <img src="./assets/images/docs/developer_options.png" alt="" class="tutorial-img"/>
 </div>
 
 * Finally just drag and drop the zip you downloaded from the [downloads section](./downloads) to `chrome://extensions/`:
 
 <div>
-  <img src="./assets/images/docs/install_chrome.png" alt="" class="tutorial-img">
+  <img src="./assets/images/docs/install_chrome.png" alt="" class="tutorial-img"/>
 </div>
 
 * The extension will appear on the list. When a new version is available in Chrome store, just delete it manually and install from the store.
@@ -312,11 +312,12 @@ Steps:
 * Type the following in Firefox's address bar: `chrome://extensions/` and enable "developer options": `about:debugging#/runtime/this-firefox` and then click on "Load Temporary Add-on":
 
 <div>
-  <img src="./assets/images/docs/firefox_debugging.png" alt="" class="tutorial-img">
+  <img src="./assets/images/docs/firefox_debugging.png" alt="" class="tutorial-img"/>
 </div>
 
 * An "Open File" window will popup. You have to go to the folder where you unzipped OnlyFans Xtractor and select manifest.json file:
 
+<div>
   <img src="./assets/images/docs/open_manifest.png" alt="" class="tutorial-img">
 </div>
 
