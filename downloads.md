@@ -6,7 +6,7 @@ layout: default
 
 Everytime there is a new version to solve issues or introduce new features, the extension has to go through firefox and chrome submission process, which can take hours or even weeks.
 
-If you want to try the new features before it's published in the official stores, you can do so by downloading the desired version from here and install them manually following the instructions described in the tutorials section: [Install OF-Xtractor manually](/tutorial#install)
+If you want to try the new features before it's published in the official stores, you can do so by downloading the desired version from here and install them manually following the instructions described in the tutorials section: [Install OF-Xtractor manually](./tutorial#install)
 
 ## Version 1.0.2
 
