@@ -26,7 +26,7 @@ footer:
 menu:
   - text: Home
     link: /
-    icon: ""
+    icon: "fa-home"
 
   - text: Tutorial
     link: /tutorial
@@ -47,10 +47,6 @@ social_icons:
   - name: twitter
     link: https://www.twitter.com/OF_Xtractor
     icon: fab fa-twitter
-    
-  - name: facebook
-    link: mailto:unkoder.dev@gmail.com
-    icon: fab fa-mail
 
 # Google Analytics
 google_analytics: UA-177506252-1
