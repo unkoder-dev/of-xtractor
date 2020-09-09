@@ -48,8 +48,8 @@ social_icons:
     link: https://www.twitter.com/OF_Xtractor
     icon: fab fa-twitter
     
-  - name: mail
-    link: https://www.facebook.com/OF_Xtractor
+  - name: facebook
+    link: mailto:unkoder.dev@gmail.com
     icon: fab fa-mail
 
 
