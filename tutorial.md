@@ -262,7 +262,7 @@ Above the table the following controls are enabled:
 <div id="install"></div>
 ## 3 Install extension manually before it's published
 
-Sometimes I'll come up with a new version of the app that fixes some bugs or introduce new features. Well, Chrome and Firefox stores sometimes take a long time to review the new version before allowing it to be published (especially Chrome). That's why I give you the option to download the new version from this site and install it manually until it's officially available in the stores. (You may go to the [downloads section](/downloads) to find the latest version).
+Sometimes I'll come up with a new version of the app that fixes some bugs or introduce new features. Well, Chrome and Firefox stores sometimes take a long time to review the new version before allowing it to be published (especially Chrome). That's why I give you the option to download the new version from this site and install it manually until it's officially available in the stores. (You may go to the [downloads section](./downloads) to find the latest version).
 
 The steps to add an extension manually differs for each browser. Please go to the tutorial section corresponding to the browser where you want to install it.
 
@@ -274,14 +274,14 @@ The steps to add an extension manually differs for each browser. Please go to th
 
 For google chrome, the installation process is rather easy:
 
-* Download the latest version for Google Chrome from the [downloads section](/downloads).
+* Download the latest version for Google Chrome from the [downloads section](./downloads).
 * Type the following in Chrome's address bar: `chrome://extensions/` and enable "developer options":
 
 <div>
   <img src="./assets/images/docs/developer_options.png" alt="" class="tutorial-img">
 </div>
 
-* Finally just drag and drop the zip you downloaded from the [downloads section](/downloads) to `chrome://extensions/`:
+* Finally just drag and drop the zip you downloaded from the [downloads section](./downloads) to `chrome://extensions/`:
 
 <div>
   <img src="./assets/images/docs/install_chrome.png" alt="" class="tutorial-img">
@@ -295,3 +295,31 @@ For google chrome, the installation process is rather easy:
 ---
 <div id="install-firefox"></div>
 ## 3.2 Manual installation steps for Mozilla Firefox
+
+Manual installation for firefox the process is a little more tedious, however, firefox is faster at reviewing extensions for publishing, so hopefully you won't be needing to install manually.
+
+<div class="alert-box-warning">
+          <h4>Important!</h4>
+          <p>
+            Manually installed extensions into firefox are removed when you restart your browser, so, you'll have to follow this procedure with each restart.
+          </p>
+</div>
+
+Steps:
+
+* Download the latest version for Mozilla Firefox from the [downloads section](./downloads).
+* Unzip the file to a folder of your choosing.
+* Type the following in Firefox's address bar: `chrome://extensions/` and enable "developer options": `about:debugging#/runtime/this-firefox` and then click on "Load Temporary Add-on":
+
+<div>
+  <img src="./assets/images/docs/firefox_debugging.png" alt="" class="tutorial-img">
+</div>
+
+* An "Open File" window will popup. You have to go to the folder where you unzipped OnlyFans Xtractor and select manifest.json file:
+
+  <img src="./assets/images/docs/open_manifest.png" alt="" class="tutorial-img">
+</div>
+
+* The extension will appear on the list. When a new version is available in Firefox store, just delete it manually (or restart your browser) and install from the store.
+
+<a href="#top">Back to top</a>
