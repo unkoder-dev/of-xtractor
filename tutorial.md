@@ -14,9 +14,14 @@ layout: default
   <ul>
     <li><a href="#layout">2.1 Extension page layout</a></li>
     <li><a href="#posts">2.2 Posts tab</a></li>
-    <li><a href="#chats">3.3 Chats</a></li>
-    <li><a href="#stories">3.4 Stories</a></li>
-    <li><a href="#purchases">3.5 My Purchases</a></li>
+    <li><a href="#chats">2.3 Chats</a></li>
+    <li><a href="#stories">2.4 Stories</a></li>
+    <li><a href="#purchases">2.5 My Purchases</a></li>
+  </ul>
+  <li><a href="#install">3 Install extension manually before it's published</a>
+  <ul>
+    <li><a href="#install-chrome">3.1 Manual installation steps for Google Chrome</a></li>
+    <li><a href="#posts">3.2 Manual installation steps for Mozilla Firefox</a></li>
   </ul>
 </li>
 </ul>
@@ -251,3 +256,41 @@ Above the table the following controls are enabled:
 * **Multimedia found:** Indicates the number of photos, videos and audios being displayed in the table
 
 <a href="#top">Back to top</a>
+
+---
+<div id="install"></div>
+## 3 Install extension manually before it's published
+
+Sometimes I'll come up with a new version of the app that fixes some bugs or introduce new features. Well, Chrome and Firefox stores sometimes take a long time to review the new version before allowing it to be published (especially Chrome). That's why I give you the option to download the new version from this site and install it manually until it's officially available in the stores. (You may go to the [downloads section](/downloads) to find the latest version).
+
+The steps to add an extension manually differs for each browser. Please go to the tutorial section corresponding to the browser where you want to install it.
+
+<a href="#top">Back to top</a>
+
+---
+<div id="install-chrome"></div>
+## 3.1 Manual installation steps for Google Chrome
+
+For google chrome, the installation process is rather easy:
+
+* Download the latest version for Google Chrome from the [downloads section](/downloads).
+* Type the following in Chrome's address bar: `chrome://extensions/` and enable "developer options":
+
+<div>
+  <img src="./assets/images/docs/developer_options.png" alt="" class="tutorial-img">
+</div>
+
+* Finally just drag and drop the zip you downloaded from the [downloads section](/downloads) to `chrome://extensions/`:
+
+<div>
+  <img src="./assets/images/docs/install_chrome.png" alt="" class="tutorial-img">
+</div>
+
+* The extension will appear on the list. When a new version is available in Chrome store, just delete it manually and install from the store.
+
+
+<a href="#top">Back to top</a>
+
+---
+<div id="install-firefox"></div>
+## 3.2 Manual installation steps for Mozilla Firefox
