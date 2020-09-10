@@ -10,7 +10,7 @@ If you want to try the new features before it's published in the official stores
 
 ## Version 1.0.2
 
-\[[Download for Chrome]\](/downloads/V1.0.2/dist_chrome.zip)  \|  \[[Download for Firefox]\](/downloads/V1.0.2/dist_firefox.zip)
+\[ [Download for Chrome] \](/downloads/V1.0.2/dist_chrome.zip)  \|  \[ [Download for Firefox] \](/downloads/V1.0.2/dist_firefox.zip)
 
 ### Features
 
